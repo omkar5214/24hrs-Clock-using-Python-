@@ -8,7 +8,7 @@ root.title("CLOCK")
 
 
 def time():
-    string = strftime("%H:%M:%S %p")
+    string = strftime("%H:%M:%S %p") #%p helps us to find if its pm/am
     label.config(text=string)
     label.after(1000,time)
 
