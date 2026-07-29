@@ -1,1 +1,1 @@
-Here I have created digital clock using Python tkinter 
+Here I have created Digital Clock using Python tkinter 
